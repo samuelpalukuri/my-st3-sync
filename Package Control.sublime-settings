@@ -19,6 +19,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"Terminal",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"UIkit autocomplete"
 	]
 }
